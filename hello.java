@@ -1,4 +1,4 @@
-class hello-wind
+iclass hello-wind
 {
 	public static void main() #changes from wind-user
 
